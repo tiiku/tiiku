@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Javascript Projects
 - 📫 How to reach me patelharsh00455@gmail.com
 
 <!---
